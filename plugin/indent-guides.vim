@@ -44,6 +44,7 @@ au VimEnter * call Nine2IndentGuides()
 """"""""""""""""""""""""""
 " Shortcuts...
 """"""""""""""""""""""""""
-command! -nargs=0 Nine2IndentGuides :call Nine2IndentGuides()
+" command! -nargs=0 Nine2IndentGuides :call Nine2IndentGuides()
+command! Nine2IndentGuides :call Nine2IndentGuides()
 
 " vim:set ft=vim sw=2 sts=2  fdm=marker et:

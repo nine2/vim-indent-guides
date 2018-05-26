@@ -14,10 +14,10 @@ Bundle "nine2/vim-indent-guides"
 
 ## Useg
 
-add the config to your .vimrc to set shot key:
+add the config to your .vimrc to set shotcuts:
 
 ```
-map <leader>i :call Nine2IndentGuides()<cr>
+map <leader>i :Nine2IndentGuides<cr>
 ```
 
 add the config to disable the plugin:
@@ -27,9 +27,6 @@ let g:nine2_indent_guides_disable = 1
 ```
 
 use `:Nine2IndentGuides` to enable/disable the indent guides.
-
-## Help
-`:help indent-guides`
 
 ## Screenshots
 ![](./plugin/pic.jpg)
