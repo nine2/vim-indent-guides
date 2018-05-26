@@ -29,5 +29,5 @@ let g:nine2_indent_guides_disable = 1
 use `:Nine2IndentGuides` to enable/disable the indent guides.
 
 ## Screenshots
-![](./plugin/pic.jpg)
+![](./plugin/pic.png)
 
